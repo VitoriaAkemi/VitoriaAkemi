@@ -3,7 +3,7 @@
 
 - :books: I am a student of Systems Analysis and Development at [FIAP](https://www.fiap.com.br/) </li>
 - :house_with_garden: I live in São Paulo - SP </li>
-- :tada: I'm 19 years old </li>
+- :tada: I'm 20 years old </li>
 - :love_letter: Study is the door to success, dedication is the key
 
 
